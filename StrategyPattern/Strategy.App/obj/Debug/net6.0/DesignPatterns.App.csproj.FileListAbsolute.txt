@@ -1,0 +1,15 @@
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\bin\Debug\net6.0\DesignPatterns.App.exe
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\bin\Debug\net6.0\DesignPatterns.App.deps.json
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\bin\Debug\net6.0\DesignPatterns.App.runtimeconfig.json
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\bin\Debug\net6.0\DesignPatterns.App.dll
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\bin\Debug\net6.0\DesignPatterns.App.pdb
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\obj\Debug\net6.0\DesignPatterns.App.csproj.AssemblyReference.cache
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\obj\Debug\net6.0\DesignPatterns.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\obj\Debug\net6.0\DesignPatterns.App.AssemblyInfoInputs.cache
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\obj\Debug\net6.0\DesignPatterns.App.AssemblyInfo.cs
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\obj\Debug\net6.0\DesignPatterns.App.csproj.CoreCompileInputs.cache
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\obj\Debug\net6.0\DesignPatterns.App.dll
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\obj\Debug\net6.0\refint\DesignPatterns.App.dll
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\obj\Debug\net6.0\DesignPatterns.App.pdb
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\obj\Debug\net6.0\DesignPatterns.App.genruntimeconfig.cache
+C:\Users\ellez\OneDrive\Programing\Csharp\DesignPatterns\DesignPatterns.App\obj\Debug\net6.0\ref\DesignPatterns.App.dll
